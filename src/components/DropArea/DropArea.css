@@ -1,0 +1,48 @@
+.centreText {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 150px;
+  }
+  
+  .dropZone {
+    margin-top: 40px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    height: 54vh;
+    background-color: #dbc0d7;
+    border-radius: 20px;
+    color: rgb(126, 69, 69);
+    border-style: solid;
+    padding: 3px;
+    border-width: 2px;
+  }
+  
+  .image1 {
+    max-width: 100%;
+    margin-top: 21px;
+    height: 50vh;
+    color: rgb(145, 107, 107);
+    border-style: dashed;
+    padding: 3px;
+    border-width: 2.5px;
+  }
+  
+  .dank {
+    display:flex;
+    justify-content:center;
+    color: rgb(129, 83, 99);
+    font-size: 20px;
+    
+  }
+  
+  .dropZoneText {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+  }
